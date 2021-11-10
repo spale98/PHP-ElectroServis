@@ -1,0 +1,75 @@
+<style>
+*{
+font-family: "Arial";
+	}
+
+.buttonMeni{
+	
+	margin: 1px;
+    text-decoration: none;
+    padding: 10px 15px;   
+    font-size: 19px;
+	cursor: pointer;
+	list-style-type: none;  
+	border-radius: 20%;
+}
+
+.buttonMeni a{ 
+	text-decoration: none;
+	color: black;
+}
+
+h2{
+	margin: 0px;
+	//border-radius-top: 8px;
+	//background: #DBDBDB; 
+	padding: 5px;
+	
+}
+
+input[type=text], [type=password]{
+	font-size: 15px;
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #1C1C1C;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+	cursor: pointer;
+	width: 120px;
+	height: 50px;
+	display: block;
+	width: -15px;
+	border-radius:20%;
+	background-color: #CD853F;
+;
+	//box-radius: 15px;
+	border: 1px solid #ccc;
+	//background: black;
+	color: white;
+	margin-right: 10px;
+}
+ 
+
+
+label{
+	background: none;
+	
+}
+
+a{
+	font-size: 20px;
+}
+.popuni{
+	font-family: Verdana;
+	color: #CD4F39;
+	text-align: center;
+}
+
+</style>
