@@ -1,0 +1,172 @@
+<style>
+body{
+	background-image: linear-gradient( 175.9deg,  rgba(185,168,144,1) 15%, rgba(85,76,74,1) 87.6% );
+}
+.naslov{
+	background: #2E2E2E;
+
+}
+h3{
+	color: #CD4F39;
+	display: inline-block;
+	
+}
+.poc{
+	width: 10%;
+	padding: 8px 8px;
+   margin: 40px 40%;
+   display: inline-block;
+	border: 1px solid #ccc; 
+   border-radius: 8px;
+}
+
+input[type=text], select {
+
+	font-size: 15px;
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #1C1C1C;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+input[type=submit]{
+	cursor: pointer;
+	width: 120px;
+	height: 50px;
+	display: block;
+	width: -15px;
+	border-radius:20%;
+	background-color: #CD853F;
+	//box-radius: 15px;
+	border: 1px solid #ccc;
+	//background: black;
+	color: white;
+	margin-right: 10px;
+}
+ 
+
+.form-container{
+	margin-top: 2%;
+	margin-left: 35%;
+	float: left;
+	width: 30%;
+	padding: 5px;
+	text-align: center;
+}
+ul,li{
+	width: 70%;
+	display:inline-block;
+	list-style-type: none;
+}
+
+.da{
+	font-family: Verdana;
+	color: #008B00;
+	text-align: center;
+	margin-top: 15%;
+}
+.buttoni{
+float: right;
+}
+
+button{
+	width: 65%;
+	
+	height: 40px;
+	//display: block;
+	
+	background-color: #CD4F39;
+	
+	border: 1px solid #ccc;
+	
+	color: white;
+	
+}
+
+.glavniNaslov{
+	background-color: #2B2B2B;
+}
+
+.glNas{
+	margin-left: 40%;
+	
+	
+}
+
+.dropbtn {
+	cursor: pointer;
+    background-color: #2E2E2E;
+    color: white;
+    padding: 10px;
+	width: 70px;
+    font-size: 16px;
+    border: none;
+	
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #2E2E2E;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #4F4F4FF4F;
+}
+
+#down{
+	background-color: transparent;
+	height: 10%;
+	border: none;
+	cursor: pointer;
+}
+.naslovBoja{
+
+}
+h3{
+	color: #5C3317;
+	display: inline-block;
+	margin-right: 19%;
+	
+	text-align: center;
+	
+}
+.glavniNaslov{
+background-image: radial-gradient( circle farthest-corner at 12% 17.8%,  rgba(252,219,119,1) 0%, rgba(248,182,86,1) 100.2% );}
+
+.glNas{
+	margin-left: 38%;
+	
+}
+
+.pomeri{
+	margin-left: 90%;
+	
+}
+
+.idZaposlenog{
+	margin-left: 30%;
+}
+
+</style>
